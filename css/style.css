@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p:100,300');
+
+body{
+  background-color: #EEEEEE;
+}
+
+h1{
+  padding: 10px;
+  text-decoration-line: underline;
+}
+
+h3.name{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+.col-sm-4.icon{
+  text-align: center;
+}
+
+img.meImg{
+  padding: 10px;
+  width: 200px;
+}
+
+.col-sm-8.intro{
+  padding: 10px;
+}
+
+.container{
+  margin-top: 10px;
+  background-color: #FEFEFE;
+}
+
+.row{
+  padding-bottom: 10px; 
+}
+
+p.description{
+  padding: 10px;
+  font-family: 'M PLUS 1p', sans-serif;
+  background-color: #EEEEEE;
+  font-weight: 300;
+  font-size: 1.4em;
+}
+
+.illustya{
+  text-align: center;
+}
+
+img.illust{
+  width: 250px;
+}
