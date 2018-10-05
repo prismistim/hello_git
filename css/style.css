@@ -16,7 +16,7 @@ h3.name{
   font-weight: 300;
 }
 
-.col-sm-4.icon{
+.col-md-4.icon{
   text-align: center;
 }
 
@@ -25,7 +25,7 @@ img.meImg{
   width: 200px;
 }
 
-.col-sm-8.intro{
+.col-md-8.intro{
   padding: 10px;
 }
 
